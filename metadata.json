@@ -1,0 +1,5 @@
+{
+  "name": "Dice Game Simulator",
+  "description": "Simulates the optimal dice roll order to maximize coins in a board game.",
+  "requestFramePermissions": []
+}
